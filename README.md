@@ -14,16 +14,14 @@ The goal is to make coding accessible, enjoyable and confidence-building for chi
 Conducted qualitative research through parent interviews to understand concerns about children learning coding.
 Created empathy maps and user personas to identify user motivations, frustrations and expectations.
 Analyzed competitors to discover gaps in existing platforms for kids.
-### 2. Visual Identity
-Developed a playful visual identity using bright colors and rounded typography suitable for childern.
-### 3. Main Designs
+### 2. Problem Definition
+Most coding platforms are designed with an adult mindset, making them overwhelming for children and reducing engagement.
+### 3. Ideation
+Brainstormed gamification features and interactive paths to simplify programming concepts for children.
+### 4. Visual Identity
+Developed a playful visual identity using bright colors and rounded typography suitable for children.
+### 5. Main Designs
 Created low-fidelity wireframes to test layout structure and content hierarchy before moving to high-fidelity designs.
-### 4. Complementary products
-### 5. Review & Finalization
-### 6. Final Presentaion
-## Roles & Responsibilities
-
-## KPIs
 
 ## Instructor
 Dr. Badr Sayed
