@@ -22,13 +22,9 @@ Created low-fidelity wireframes to test layout structure and content hierarchy b
 ### 5. Review & Finalization
 ### 6. Final Presentaion
 ## Roles & Responsibilities
-- UX Research
-- UI design
-- Prototyping
+
 ## KPIs
-- User engagment rate
-- Task completion rate
-- Parent satisfaction level
+
 ## Instructor
 Dr. Badr Sayed
 ## Project Files
