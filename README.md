@@ -2,6 +2,7 @@
 BrainyCode
 ## Project Idea
 A UX design project focuses on designing an engaging and child-centered UX for a coding education platform that simplifies programming concepts through interactive and playful learning.
+The goal is to make coding accessible, enjoyable and confidence-building for childern while helping parents easily monitor their development.
 ## Team Members
 1. Mohamed Rezk Mohamed
 2. Nada Ashraf Othman
