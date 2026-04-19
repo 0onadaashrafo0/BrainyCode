@@ -16,3 +16,10 @@ BrainyCode
 بناء مهارات التفكير المنطقي وحل المشكلات منذ الصغر.
 مساعدة أولياء الأمور على متابعة تطور أطفالهم بشكل سهل وواضح.
 ## Team Members
+1. Nada Ashraf
+2. Rana Mahmoud
+3. Mohamed Rezk
+4. Mina George
+5. Ehab Maged
+6. Marina
+## Project Figma Link
