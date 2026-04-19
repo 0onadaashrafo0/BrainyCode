@@ -23,3 +23,5 @@ BrainyCode
 5. Ehab Maged
 6. Marina
 ## Project Figma Link
+https://www.figma.com/proto/CHVX2KwXuoeBIPDjXiL4Gu/GP_G675_P4?node-id=0-1&t=7EPPEPbVsLhAAB7d-1 
+
