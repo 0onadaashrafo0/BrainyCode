@@ -4,11 +4,11 @@ BrainyCode
 A UX design project focuses on designing an engaging and child-centered UX for a coding education platform that simplifies programming concepts through interactive and playful learning.
 The goal is to make coding accessible, enjoyable and confidence-building for childern while helping parents easily monitor their development.
 ## Team Members
-1. Mohamed Rezk Mohamed
-2. Nada Ashraf Othman
+1. Nada Ashraf Othman
+2. Rana Mahmoud Mohamed
 3. Ehab Maged Ezzat
-4. Rana Mahmoud Mohamed
 5. Mina George Fahime
+6. Mohamed Rezk Mohamed
 ## Project Plan
 ### 1. Research & Analysis
 Conducted qualitative research through parent interviews to understand concerns about children learning coding.
